@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "roti-grille",
+  "private_key_id": "0f4c578b9250bc68724632926e455ca56119b547",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCfgbDt7cF4jocD\n0day9jZlA5aBx8oakiG+saShCN1+yJ0JANYDF47F5Y4cKsi9sF+QqBgsvfAHkHu7\nCRZYKut4CTBaMl9gK9wDpqXnXi7kTbwr7ze362zBVVNOBJm+wxH6ePwEpJq6P9Nn\nOB4oacbnyj3Ik+Dkjnm7pgAfx527H1d/Hh+wQBUDXujs1a3vQqIDV/YNcS/rT/Wr\ngmdE81QnTJrh577+O8I3l7IN74jqnwJDOntuL452+01ksiLMyItEeM8dNWbc4an/\nJGD/ux36rZqAI2wyZ0UlCO2b0pTdhYoPnBpJfWhQRLB/KTpF9NDbl6fxoJRi9jeT\n4z0FPUb/AgMBAAECggEABORbYtC58FKevXVAGnkGrg5wHUbdYfc9ZbXZEL9O28aX\nWmFWLv4X+OXTd/Wv9nFkXPFq3GRu6ix6PwBGWSnn0uSlQP7ugeqWct43lGMFGSdx\nL//EO7XSvhM53NizRnCBKqdvQ00xGak/eJj2A9NKsG05e99dNGVSQnkS4+ahZc3B\n34untW2wQqfBDQbJI6zKhV9ZTyQkZh6BECvgadG8Mj5iytMRFsK4sQiGMYZisOVp\n3IcdtJAgkPHmKJBngmT28JZ+Hu7C/Qj8jg0bCynj7GVvwYc0wROFfVdPO6tXwSxx\n+oKFgm1Y0O6/4fB05sWSfnItgVTiIjK2Zbk2yIW/IQKBgQDSQAZCy5atx+ow4yCq\nDNURmzK1uK1JYY4I0SAeakiPTKmVSmfGRxWQVS5UGjRyksEMqOtvGMDm4sM8rzCN\njClvFhWSFlDHY3cSKDbJs2EznmH0BIJidl1sPdmJlLQ6rT3T52qO2aBo2+su2EhD\nr+A3sCSjdebviegeMaeeDYtNOQKBgQDCNwCF5L0Oiy72F3uuPN1dL5ziyLxRPDSn\n/avTdsugbk3PsLxaTDAy7z9vhZ2C8rozgj1xPwmjnxzsepe8H7OSr5swG+xGWI9T\ncNN4L/Uo/JmTw9lL7WuXEuVybCvtGZWC1dptAPK++R4NJ3jtg64JgHE9msCW9HUv\n/7QKwBjt9wKBgDkrJ4iqCwKdxVQdrhgO/TCYXqWC3buCRzimhHFAvRIZ6lKptKX5\nVie0wbAkn/Y3aT6j/8BpnqopJqUtjaovXmTSQHNElhphNVM+lAcsO1XpzwCm6T0U\nqjpwZuI+CPObf6BK4HKPQkrA4aYPMTcWb4U05AF+YZjoirELF2SmkiYhAoGAa5Hh\nVUfTOxn2IdHx7BjEFxgHEklSnL/2/lDvecmjkTFnIbDnMjBexedjwFZGXsAoR91M\nQMxEf37im0xvfIAmiwl+sA/XN0NX50RnrHsLk+8M9R4V3gsbe2q48T5eug1glT3z\npEpRKVt7vJdvUEaN/69HiXKMV1ABFFvRkd7CMBMCgYEAif3+A6Pcqr3Lyxox3QHi\nZ5jslGbPfHq7mWibPU/sKbP+dc9Ni9CcijQbFchN/VrmuozoTvcWSARXO5S52oDO\nXOpPU5sNq3WnqqmaTyP/3REWQKTAt5QM7tTs1wt+AHKCe0R5V39OZgU5pKrXUMpO\n68uyDHmNgBIP07uWIUFtoVI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-egora@roti-grille.iam.gserviceaccount.com",
+  "client_id": "116760565965315687100",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-egora%40roti-grille.iam.gserviceaccount.com"
+}

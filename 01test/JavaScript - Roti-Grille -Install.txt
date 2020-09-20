@@ -1,0 +1,16 @@
+JavaScript
+
+Project Firebase select:
+
+Roti-Grille
+-----------------------------------
+Install:
+
+npm i express
+npm i cors
+
+----------------------------------
+http://localhost:4000/
+emulador
+
+
